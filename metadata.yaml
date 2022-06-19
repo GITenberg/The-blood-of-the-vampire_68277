@@ -1,0 +1,34 @@
+_repo: The-blood-of-the-vampire_68277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marryat, Florence
+    aliases:
+    - Lean, Florence Marryat Church
+    - Lean, Mrs. Francis
+    - Church, Ross, Mrs.
+    - Church, Mrs. Ross
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '39905'
+    url: http://www.gutenberg.org/2009/agents/39905
+description: ''
+gutenberg_issued: '2022-06-10'
+identifiers:
+  gutenberg: '68277'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924013496629&view=1up&seq=1
+pgterms:marc905: 20210112142137marryat
+pgterms:marc906: '1897'
+pgterms:marc907: de
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: Germany :Bernhard Tauchnitz,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The blood of the vampire
+url: http://www.gutenberg.org/ebooks/68277
